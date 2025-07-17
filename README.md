@@ -12,7 +12,7 @@ Just use it with common sence, if you use it write down where you got it from (t
     <code "color:white;background-color:black">
         ©️ LockheedMartn-lab
         GNU, GPLV3 License
-        Repository: https://github.com/LockheedMartin-lab/backup-files/
+        Repository: https://github.com/LockheedMartin-discord/DC_Server/
     </code>
 </pre>
 
